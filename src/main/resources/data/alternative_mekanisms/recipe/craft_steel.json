@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:coal"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    },
+    "d": {
+      "tag": "alternative_meckanisms:combinator"
+    }
+  },
+  "result": {
+    "id": "mekanism:ingot_steel",
+    "count": 1
+  }
+}

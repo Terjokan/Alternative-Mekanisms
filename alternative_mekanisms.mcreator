@@ -1,0 +1,413 @@
+{
+  "mod_elements": [
+    {
+      "name": "Combinator",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorItem.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorTier2",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_tier_2",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorTier2Item.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_tier_2.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorTier3",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_tier_3",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorTier3Item.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_tier_3.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorTier4",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_tier_4",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorTier4Item.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_tier_4.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinator",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftInfusedAlloy",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_infused_alloy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_infused_alloy.json"
+        ]
+      },
+      "path": "~/Alloys"
+    },
+    {
+      "name": "CraftReinfusedAlloy",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_reinfused_alloy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_reinfused_alloy.json"
+        ]
+      },
+      "path": "~/Alloys"
+    },
+    {
+      "name": "CraftRefinedObsidian",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_refined_obsidian",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_refined_obsidian.json"
+        ]
+      },
+      "path": "~/Ores"
+    },
+    {
+      "name": "CraftAtomicAlloy",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_atomic_alloy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_atomic_alloy.json"
+        ]
+      },
+      "path": "~/Alloys"
+    },
+    {
+      "name": "AlternativeMeckanisms",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alternative_meckanisms",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftBronze",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_bronze",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_bronze.json"
+        ]
+      },
+      "path": "~/Ores"
+    },
+    {
+      "name": "CraftSteel",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_steel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_steel.json"
+        ]
+      },
+      "path": "~/Ores"
+    },
+    {
+      "name": "CraftSteelAdvanced",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "craft_steel_advanced",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_meckanisms/recipe/craft_steel_advanced.json"
+        ]
+      },
+      "path": "~/Ores"
+    },
+    {
+      "name": "CraftCombinatorTier4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_tier_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_tier_4.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinatorTier2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_tier_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_tier_2.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinatorTier3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_tier_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_tier_3.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorBase",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_base",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorBaseItem.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_base.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorBaseTier1",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_base_tier_2",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorBaseTier1Item.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_base_tier_2.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorBaseTier3",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_base_tier_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_base_tier_3.json",
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorBaseTier3Item.java"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CombinatorBaseTier4",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "combinator_base_tier_4",
+      "metadata": {
+        "files": [
+          "src/main/java/de/terjokan/mods/alternativemekanisms/item/CombinatorBaseTier4Item.java",
+          "src/main/resources/assets/alternative_mekanisms/models/item/combinator_base_tier_4.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinatorBase",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_base",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_base.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinatorBaseTier2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_base_tier_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_base_tier_2.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinatorBaseTier3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_base_tier_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_base_tier_3.json"
+        ]
+      },
+      "path": "~/Combinator"
+    },
+    {
+      "name": "CraftCombinatorBaseTier4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_combinator_base_tier_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alternative_mekanisms/recipe/craft_combinator_base_tier_4.json"
+        ]
+      },
+      "path": "~/Combinator"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:enchantable/durability": [
+      "~CUSTOM:CombinatorTier4",
+      "~CUSTOM:CombinatorTier3",
+      "~CUSTOM:CombinatorTier2",
+      "~CUSTOM:Combinator"
+    ],
+    "ITEMS:mod:any_coal": [
+      "Items.COAL#0",
+      "Items.COAL#1"
+    ],
+    "ITEMS:mod:combinator": [
+      "CUSTOM:Combinator",
+      "CUSTOM:CombinatorTier2",
+      "CUSTOM:CombinatorTier3",
+      "CUSTOM:CombinatorTier4"
+    ],
+    "ITEMS:mod:combinator_tier_3": [
+      "CUSTOM:CombinatorTier3",
+      "CUSTOM:CombinatorTier4"
+    ],
+    "ITEMS:mod:combinator_tier_2": [
+      "CUSTOM:CombinatorTier2",
+      "CUSTOM:CombinatorTier3",
+      "CUSTOM:CombinatorTier4"
+    ],
+    "ITEMS:mod:combinator_tier_4": [
+      "CUSTOM:CombinatorTier4"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.alternative_meckanisms.combinator_base_tier_2": "Combinator Base Tier 1",
+      "item.alternative_mekanisms.combinator": "Combinator Tier 1",
+      "item.alternative_meckanisms.combinator_base_tier_3": "Combinator Base Tier 3",
+      "item.alternative_meckanisms.combinator_base_tier_4": "Combinator Base Tier 4",
+      "item.alternative_mekanisms.combinator_base": "Combinator Base",
+      "item_group.alternative_meckanisms.alternative_meckanisms": "Alternative Meckanisms",
+      "item_group.alternative_mekanisms.alternative_meckanisms": "Alternative Meckanisms",
+      "item.alternative_meckanisms.combinator_tier_2": "Combinator Tier 2",
+      "item.alternative_mekanisms.combinator_tier_2": "Combinator Tier 2",
+      "item.alternative_meckanisms.combinator_tier_3": "Combinator Tier 3",
+      "item.alternative_meckanisms.combinator_tier_4": "Combinator Tier 4",
+      "item.alternative_mekanisms.combinator_tier_4": "Combinator Tier 4",
+      "item.alternative_mekanisms.combinator_tier_3": "Combinator Tier 3",
+      "item.alternative_meckanisms.combinator": "Combinator Tier 1",
+      "item.alternative_mekanisms.combinator_base_tier_3": "Combinator Base Tier 3",
+      "item.alternative_mekanisms.combinator_base_tier_4": "Combinator Base Tier 4",
+      "item.alternative_meckanisms.combinator_base": "Combinator Base",
+      "item.alternative_mekanisms.combinator_base_tier_2": "Combinator Base Tier 1"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Combinator",
+        "children": []
+      },
+      {
+        "name": "Alloys",
+        "children": []
+      },
+      {
+        "name": "Ores",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "alternative_mekanisms",
+    "modName": "Alternative Mekanisms",
+    "version": "1.0.0",
+    "author": "Terjokan, MCreator",
+    "websiteURL": "https://terjokan.de",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [
+      "mekanism"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "de.terjokan.mods.alternativemekanisms"
+  },
+  "mcreatorVersion": 202400452410
+}

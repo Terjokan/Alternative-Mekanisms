@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "alternative_mekanisms:combinator",
+    "alternative_mekanisms:combinator_tier_2",
+    "alternative_mekanisms:combinator_tier_3",
+    "alternative_mekanisms:combinator_tier_4"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    " ba",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "tag": "c:ingots/tin"
+    },
+    "c": {
+      "tag": "alternative_meckanisms:combinator"
+    }
+  },
+  "result": {
+    "id": "mekanism:ingot_bronze",
+    "count": 2
+  }
+}

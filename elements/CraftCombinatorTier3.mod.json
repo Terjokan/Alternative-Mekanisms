@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "TAG:c:ingots/steel"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "TAG:c:alloys/elite"
+      },
+      {
+        "value": "CUSTOM:CombinatorBaseTier1"
+      },
+      {
+        "value": "TAG:c:alloys/elite"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "TAG:c:circuits/elite"
+      },
+      {
+        "value": "Items.REDSTONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CombinatorBaseTier3"
+    },
+    "name": "craft_combinator_tier_3",
+    "namespace": "mod"
+  }
+}

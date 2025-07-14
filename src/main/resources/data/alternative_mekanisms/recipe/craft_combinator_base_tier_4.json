@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " ba",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "alternative_mekanisms:combinator_base_tier_4"
+    },
+    "c": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "result": {
+    "id": "alternative_mekanisms:combinator_tier_4",
+    "count": 1
+  }
+}

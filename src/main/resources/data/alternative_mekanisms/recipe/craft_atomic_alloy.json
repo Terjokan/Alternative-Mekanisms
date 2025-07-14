@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "dcd"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ingots/refined_obsidian"
+    },
+    "b": {
+      "tag": "c:alloys/elite"
+    },
+    "c": {
+      "tag": "alternative_meckanisms:combinator_tier_3"
+    },
+    "d": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "mekanism:alloy_atomic",
+    "count": 1
+  }
+}

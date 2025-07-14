@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "a b",
+    "daa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "tag": "c:alloys/advanced"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    },
+    "d": {
+      "tag": "alternative_meckanisms:combinator_tier_2"
+    }
+  },
+  "result": {
+    "id": "mekanism:alloy_reinforced",
+    "count": 2
+  }
+}

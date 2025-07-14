@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "tag": "c:alloys/advanced"
+    },
+    "d": {
+      "item": "alternative_mekanisms:combinator_base"
+    },
+    "e": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "result": {
+    "id": "alternative_mekanisms:combinator_base_tier_2",
+    "count": 1
+  }
+}

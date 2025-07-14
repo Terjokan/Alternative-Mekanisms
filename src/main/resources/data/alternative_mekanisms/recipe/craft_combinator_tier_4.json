@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "alternative_mekanisms:combinator_base_tier_3"
+    },
+    "b": {
+      "tag": "c:alloys/ultimate"
+    }
+  },
+  "result": {
+    "id": "alternative_mekanisms:combinator_base_tier_4",
+    "count": 1
+  }
+}

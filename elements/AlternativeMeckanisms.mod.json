@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "Alternative Meckanisms",
+    "icon": {
+      "value": "CUSTOM:Combinator"
+    },
+    "showSearch": false
+  }
+}

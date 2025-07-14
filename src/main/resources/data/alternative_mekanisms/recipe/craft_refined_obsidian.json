@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " ad",
+    "e a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "item": "minecraft:obsidian"
+    },
+    "d": {
+      "tag": "c:ingots/osmium"
+    },
+    "e": {
+      "item": "alternative_meckanisms:combinator_tier_3"
+    }
+  },
+  "result": {
+    "id": "mekanism:ingot_refined_obsidian",
+    "count": 1
+  }
+}

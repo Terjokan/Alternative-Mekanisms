@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "tag": "c:ingots/steel"
+    },
+    "c": {
+      "tag": "c:alloys/elite"
+    },
+    "d": {
+      "item": "alternative_mekanisms:combinator_base_tier_2"
+    },
+    "e": {
+      "tag": "c:circuits/elite"
+    }
+  },
+  "result": {
+    "id": "alternative_mekanisms:combinator_base_tier_3",
+    "count": 1
+  }
+}
